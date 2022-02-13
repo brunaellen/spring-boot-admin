@@ -6,7 +6,7 @@ Project created to monitor a Spring Boot application [Forum-Alura-Application](h
 [Spring Boot Admin Reference Guide](https://codecentric.github.io/spring-boot-admin/2.4.3/)
 
 1. Setup a simple boot project (using start.spring.io);
-2. Added Spring Boot Admin Server starter and spring boot starter web to my dependencies within pom.xml; [check it here](https://github.com/brunaellen/spring-boot-admin/blob/master/pom.xml)
+2. Added Spring Boot Admin Server starter and spring boot starter web to my dependencies within pom.xml; [check this step here](https://github.com/brunaellen/spring-boot-admin/blob/master/pom.xml)
 3. Pulled in the Spring Boot Admin Server configuration via adding @EnableAdminServer to my configuration within SpringBootAdminApplication class;
 4. Added the server port in which the application runs within aplication.properties file;
 

@@ -16,7 +16,9 @@ Project created to monitor the Spring Boot application [Forum-Alura-Application]
 5. Added configurations to the client application to enable to monitoring it:
 [Check Client Application here](https://github.com/brunaellen/forum-project-springBoot-API-REST)
 
-* Added Spring Boot Actuator to my client application;<br/>
+* Added Spring Boot Actuator to my client application;
+<br/>
+
 [check this step here](https://github.com/brunaellen/forum-project-springBoot-API-REST/commit/415d62e0f549749094bea8b2a05f6141e13ae96c)<br/> 
 
 [check this step here](https://github.com/brunaellen/forum-project-springBoot-API-REST/commit/83f6add3731fc60ce16063c8ef2f92f029d116e4)<br/>

@@ -17,8 +17,9 @@ Project created to monitor the Spring Boot application [Forum-Alura-Application]
 [Check Client Application here](https://github.com/brunaellen/forum-project-springBoot-API-REST)
 
 * Added Spring Boot Actuator to my client application; 
-[check this step here](https://github.com/brunaellen/forum-project-springBoot-API-REST/commit/415d62e0f549749094bea8b2a05f6141e13ae96c)
-[check this step here](https://github.com/brunaellen/forum-project-springBoot-API-REST/commit/83f6add3731fc60ce16063c8ef2f92f029d116e4)
+[check this step here](https://github.com/brunaellen/forum-project-springBoot-API-REST/commit/415d62e0f549749094bea8b2a05f6141e13ae96c)<br/> 
+
+[check this step here](https://github.com/brunaellen/forum-project-springBoot-API-REST/commit/83f6add3731fc60ce16063c8ef2f92f029d116e4)<br/>
 
 * Added spring-boot-admin-starter-client to the dependencies within pom.xml; [check this step here](https://github.com/brunaellen/forum-project-springBoot-API-REST/commit/0456b26a6b2a97df3e108e526dc74f39f7291019)
 

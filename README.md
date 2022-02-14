@@ -2,6 +2,16 @@
 
 Project created to monitor the Spring Boot application [Forum-Alura-Application](https://github.com/brunaellen/forum-project-springBoot-API-REST).
 
+### Application was made using:
+
+* Spring Boot 2.6.1
+* Java 11
+* maven
+
+## Endpoint
+
+* /applications/
+
 ## Steps I followed to create the application: 
 [Check Spring Boot Admin Reference Guide Here](https://codecentric.github.io/spring-boot-admin/2.4.3/)
 

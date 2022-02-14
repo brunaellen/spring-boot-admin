@@ -19,10 +19,10 @@ Project created to monitor the Spring Boot application [Forum-Alura-Application]
 * Added Spring Boot Actuator to my client application;
 <br/>
 
-[check this step here](https://github.com/brunaellen/forum-project-springBoot-API-REST/commit/415d62e0f549749094bea8b2a05f6141e13ae96c)<br/> 
+5.1. Added spring-boot-starter-actuator to dependencies and made the /actuator/ endpoint accessible; [check this step here](https://github.com/brunaellen/forum-project-springBoot-API-REST/commit/415d62e0f549749094bea8b2a05f6141e13ae96c)<br/> 
 
-[check this step here](https://github.com/brunaellen/forum-project-springBoot-API-REST/commit/83f6add3731fc60ce16063c8ef2f92f029d116e4)<br/>
+5.2. Added actuator configuration [check this step here](https://github.com/brunaellen/forum-project-springBoot-API-REST/commit/83f6add3731fc60ce16063c8ef2f92f029d116e4)<br/>
 
-* Added spring-boot-admin-starter-client to the dependencies within pom.xml; [check this step here](https://github.com/brunaellen/forum-project-springBoot-API-REST/commit/0456b26a6b2a97df3e108e526dc74f39f7291019)
+5.3. Added spring-boot-admin-starter-client to the dependencies within pom.xml; [check this step here](https://github.com/brunaellen/forum-project-springBoot-API-REST/commit/0456b26a6b2a97df3e108e526dc74f39f7291019)
 
-* Enabled the SBA Client by configuring the URL of the Spring Boot Admin Server within aplication.properties file; [check this step here](https://github.com/brunaellen/forum-project-springBoot-API-REST/commit/7c9c2b118a4ccf967b60c0388a097d8062796d87)
+5.4. Enabled the SBA Client by configuring the URL of the Spring Boot Admin Server within aplication.properties file; [check this step here](https://github.com/brunaellen/forum-project-springBoot-API-REST/commit/7c9c2b118a4ccf967b60c0388a097d8062796d87)

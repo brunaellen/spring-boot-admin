@@ -5,6 +5,7 @@ Project created to monitor the Spring Boot application [Forum-Alura-Application]
 ### Application was made using:
 
 * Spring Boot 2.6.1
+* Spring Boot Admin Server
 * Java 11
 * maven
 

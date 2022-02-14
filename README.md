@@ -10,7 +10,7 @@ Project created to monitor the Spring Boot application [Forum-Alura-Application]
 
 ## Endpoint
 
-* /applications/
+* GET /applications/
 
 ## Steps I followed to create the application: 
 [Check Spring Boot Admin Reference Guide Here](https://codecentric.github.io/spring-boot-admin/2.4.3/)
